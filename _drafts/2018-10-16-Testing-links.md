@@ -7,6 +7,4 @@ layout: post
 permalink: https://tembleking.no-ip.biz/?p=8
 published: false
 ---
-This is an [example][1]{:target="_blank"} of link to blank page.
-
- [1]: https:///google.com
+This is an [example](https://google.com target="_blank") of link to blank page.
