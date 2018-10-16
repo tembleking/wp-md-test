@@ -9,6 +9,4 @@ permalink: >
 published: true
 post_date: 2018-10-16 07:55:42
 ---
-This is an [example][1] of link to blank page.
-
- [1]: https://google.com
+This is an <a target="_blank" href="https://google.com">example</a> of link to blank page.
